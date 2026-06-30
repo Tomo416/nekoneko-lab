@@ -219,8 +219,8 @@ export default function NekomataGuide() {
               <MagicCircle className="absolute inset-0 spin-slow" strokeColor="#E8C97A" opacity={0.5} />
               <Moon size={15} className="text-[#9FE3C2] relative z-10" strokeWidth={1.5} />
             </span>
-            <span className="font-display text-base sm:text-lg tracking-wide text-[#F1ECDF] group-hover:text-[#5FD4D6] transition-colors">
-              ネコマタトモ<span className="text-[#5FD4D6]">案内所</span>
+           <span className="font-display text-base sm:text-lg tracking-wide text-[#F1ECDF] group-hover:text-[#5FD4D6] transition-colors">
+           ねこねこ<span className="text-[#5FD4D6]">錬金工房</span>
             </span>
           </button>
 
@@ -339,8 +339,8 @@ export default function NekomataGuide() {
 
           <p className="font-serif italic text-[#9FE3C2] text-sm sm:text-base tracking-[0.15em] mb-3">令和の魔女・アーティスト</p>
           <h1 className="font-display text-3xl sm:text-5xl md:text-6xl text-[#F1ECDF] tracking-wide leading-tight mb-2">
-            ネコマタトモ<span className="text-[#5FD4D6]">案内所</span>
-          </h1>
+           ねこねこ<span className="text-[#5FD4D6]">錬金工房</span>
+         </h1>
 
           <div className="flex items-center justify-center gap-2 my-6 text-[#E8C97A]/70" aria-hidden="true">
             <span className="h-px w-12 bg-gradient-to-r from-transparent to-[#E8C97A]/60" />
@@ -348,14 +348,17 @@ export default function NekomataGuide() {
             <span className="h-px w-12 bg-gradient-to-l from-transparent to-[#E8C97A]/60" />
           </div>
 
-          <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1">アート、音楽、ヒーリング。</p>
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1">
-            魔法と猫を愛する、令和の魔女ネコマタトモの総合案内所です。
-          </p>
-          <p className="text-[#EDE7F6]/75 text-sm sm:text-base leading-loose max-w-xl mx-auto mt-4">
-            「自分らしく生きるための魔法」と
-            <br className="hidden sm:block" />
-            「創造する喜び」をお届けしています。
+           古代の叡智と最新テクノロジーが出会う、創造の工房。
+         </p>
+         <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1">
+           占術、癒し、アート、生成AIによるものづくりまで。
+         </p>
+         <p className="text-[#EDE7F6]/75 text-sm sm:text-base leading-loose max-w-xl mx-auto mt-4">
+        「人生を少し面白くする体験」を
+        <br className="hidden sm:block" />
+           お届けしています。
+         </p>
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-10">
