@@ -515,7 +515,7 @@ export default function NekomataGuide() {
           </div>
 
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1">
-            魔法は架空の不思議な何か、ではありません。0から生み出すことだけじゃなく、すでにあるもの同士を組み合わせて別の何かを作ることを私たちは普段からしています。例えば、お料理なんて究極のMagic(Magick)です。
+            魔法は架空の不思議な何か、ではありません。例えば、お料理なんて究極のMagic(Magick)です。要素の違う複数の材料をいくつも組み合わせて、火を使ったり冷やしたりして、別の何かを作る。目標を現実化することもそうですよね。
           </p>
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1 mt-4">さらなる発見と、新しい魔法を日常に。</p>
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto">自分らしさを取り戻す旅のお手伝いをしています。</p>
