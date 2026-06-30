@@ -162,9 +162,9 @@ export default function NekomataGuide() {
   }, []);
 
   const navItems = [
-    { id: "about", label: "プロフィール" },
+    { id: "about", label: "工房職人" },
     { id: "activities", label: "活動紹介" },
-    { id: "magic", label: "猫と魔法" },
+    { id: "magic", label: "猫と魔法のある暮らし" },
     { id: "contact", label: "お問い合わせ" },
   ];
 
@@ -365,13 +365,13 @@ export default function NekomataGuide() {
               onClick={() => scrollTo("about")}
               className="px-7 py-3 rounded-full font-display text-sm tracking-wide text-[#0b0712] bg-gradient-to-r from-[#5FD4D6] to-[#9FE3C2] hover:shadow-[0_0_24px_rgba(95,212,214,0.45)] transition-shadow w-full sm:w-auto"
             >
-              プロフィールを見る
+              工房職人
             </button>
             <button
               onClick={() => scrollTo("activities")}
               className="px-7 py-3 rounded-full font-display text-sm tracking-wide text-[#F1ECDF] border border-[#F2A6C8]/50 hover:bg-[#F2A6C8]/10 transition-colors w-full sm:w-auto"
             >
-              活動紹介を見る
+              活動紹介
             </button>
             <button
               onClick={() => scrollTo("contact")}
@@ -515,9 +515,9 @@ export default function NekomataGuide() {
           </div>
 
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1">
-            保護猫たちと暮らしながら、アートと音楽と魔法を楽しんでいます。
+            魔法は架空の不思議な何か、ではありません。0から生み出すことだけじゃなく、すでにあるもの同士を組み合わせて別の何かを作ることを私たちは普段からしています。例えば、お料理なんて究極のMagic(Magick)です。
           </p>
-          <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1 mt-4">小さな魔法を日常に。</p>
+          <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto mb-1 mt-4">さらなる発見と、新しい魔法を日常に。</p>
           <p className="text-[#EDE7F6]/90 text-base sm:text-lg leading-loose max-w-xl mx-auto">自分らしさを取り戻す旅のお手伝いをしています。</p>
 
           <div className="flex items-center justify-center gap-6 mt-10 text-[#E8C97A]/50" aria-hidden="true">
