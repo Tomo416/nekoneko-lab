@@ -337,7 +337,7 @@ export default function NekomataGuide() {
             </div>
           </div>
 
-          <p className="font-serif italic text-[#9FE3C2] text-sm sm:text-base tracking-[0.15em] mb-3">令和の魔女・アーティスト</p>
+          <p className="font-serif italic text-[#9FE3C2] text-sm sm:text-base tracking-[0.15em] mb-3">猫と魔法のある暮らし</p>
           <h1 className="font-display text-3xl sm:text-5xl md:text-6xl text-[#F1ECDF] tracking-wide leading-tight mb-2">
            ねこねこ<span className="text-[#5FD4D6]">錬金工房</span>
          </h1>
@@ -420,11 +420,11 @@ export default function NekomataGuide() {
               </div>
 
               <div className="space-y-4 text-[#EDE7F6]/85 text-sm sm:text-base leading-loose max-w-xl">
-                <p>元・繊細さん。環境アレルギーや精神疾患により寝たきり・引きこもりを経験。</p>
-                <p>西洋医学だけでは解決できない領域や根本的な問題解決に興味を持ち、オーラやエーテル体のヒーリングやメンタルケアを学び始める。</p>
-                <p>その後、8000年の霊統を受け継ぐ魔法学校にて学びを深め、令和の魔女として活動を開始。</p>
-                <p>魔女になったことで本来の創造性を取り戻し、アート・映像制作・音楽制作・歌唱・ヒーリングや占いなど領域を超えた表現活動を行うようになる。</p>
-               <p>幼い頃から、土台や構造、仕組みが気になる性分。セッションにおいても現代における社会生活で停滞しがちなエネルギーを動かしたり、情熱を再稼働させたり、止まっている流れを本来の流れに戻すことを得意とする。</p>
+                <p>元・繊細さん。軽度発達障害。重度の算数障害。環境アレルギーや精神疾患により寝たきり・引きこもりを経験。</p>
+                <p>西洋医学だけでは解決できない領域や、根本的な問題解決に興味を持ち、オーラやエーテル体のヒーリングやメンタルケアを学び始める。</p>
+                <p>その後、8000年の霊統を受け継ぐ魔法学校にて形而上学・哲学・密教等の学びを始め、令和の魔女として活動を開始。</p>
+                <p>魔女になったことで本来の創造性を取り戻し、アート（平面/立体）・映像制作・音楽制作（作詞作曲・編曲・DTM）・歌唱・ヒーリングや占い、果ては生成AIを活用したWeb制作など領域を超えた表現活動を行うようになる。</p>
+               <p>幼い頃から、万物の土台や構造、仕組みが気になる性分だった。セッションにおいても現代における社会生活で停滞しがちなエネルギーを動かしたり、情熱を再稼働させたり、止まっている流れを本来の流れに戻すことを得意とする。</p>
                 <p className="text-[#9FE3C2]/90">現在は茅ヶ崎を拠点に活動。健康オタク。体に良くて美味しいものが大好き。保護猫3匹と暮らしている。</p>
               </div>
             </div>
@@ -569,7 +569,7 @@ export default function NekomataGuide() {
             </div>
           </div>
           <p className="font-display text-lg text-[#F1ECDF] tracking-wide mb-1">ねこねこ錬金工房</p>
-          <p className="font-serif italic text-[#9FE3C2]/80 text-sm mb-1">令和の魔女・アーティスト ネコマタトモ</p>
+          <p className="font-serif italic text-[#9FE3C2]/80 text-sm mb-1">猫と魔法のある暮らし</p>
           <p className="text-[#EDE7F6]/40 text-xs mb-6">© Nekomata Tomo</p>
 
           <nav aria-label="フッターリンク" className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm">
