@@ -214,7 +214,7 @@ export default function NekomataGuide() {
         }`}
       >
         <nav className="max-w-6xl mx-auto px-5 sm:px-8 h-16 sm:h-20 flex items-center justify-between" aria-label="メインナビゲーション">
-          <button onClick={() => scrollTo("hero")} className="flex items-center gap-2 group" aria-label="ネコマタトモ案内所 トップへ">
+          <button onClick={() => scrollTo("hero")} className="flex items-center gap-2 group" aria-label="ねこねこ錬金工房 トップへ">
             <span className="relative w-9 h-9 sm:w-10 sm:h-10 flex items-center justify-center">
               <MagicCircle className="absolute inset-0 spin-slow" strokeColor="#E8C97A" opacity={0.5} />
               <Moon size={15} className="text-[#9FE3C2] relative z-10" strokeWidth={1.5} />
@@ -329,7 +329,7 @@ export default function NekomataGuide() {
             <div className="relative w-32 h-32 sm:w-40 sm:h-40 rounded-full glass-frame border border-[#5FD4D6]/30 flex items-center justify-center float-cat overflow-hidden">
               <Image
                 src={CAT_IMG}
-                alt="ネコマタトモ案内所のブランドキャラクター、黒猫"
+                alt="ねこねこ錬金工房のブランドキャラクター、黒猫"
                 fill
                 sizes="160px"
                 className="object-contain p-3 drop-shadow-[0_0_18px_rgba(95,212,214,0.25)]"
@@ -562,10 +562,10 @@ export default function NekomataGuide() {
           <div className="relative w-16 h-16 mb-4 flex items-center justify-center">
             <MagicCircle className="absolute inset-0 spin-slow" strokeColor="#E8C97A" opacity={0.4} />
             <div className="relative w-10 h-10">
-              <Image src={CAT_IMG} alt="ネコマタトモ案内所" fill sizes="40px" className="object-contain" />
+              <Image src={CAT_IMG} alt="ねこねこ錬金工房" fill sizes="40px" className="object-contain" />
             </div>
           </div>
-          <p className="font-display text-lg text-[#F1ECDF] tracking-wide mb-1">ネコマタトモ案内所</p>
+          <p className="font-display text-lg text-[#F1ECDF] tracking-wide mb-1">ねこねこ錬金工房</p>
           <p className="font-serif italic text-[#9FE3C2]/80 text-sm mb-1">令和の魔女・アーティスト ネコマタトモ</p>
           <p className="text-[#EDE7F6]/40 text-xs mb-6">© Nekomata Tomo</p>
 
