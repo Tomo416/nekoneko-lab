@@ -6,11 +6,11 @@ import { Menu, X, Mail, ExternalLink, Sparkles, Moon, Star } from "lucide-react"
 
 /* ----------------------------------------------------------------
    画像は /public フォルダに配置してください：
-   - /public/nekomata-cat.jpg       … 黒猫キャラクター
+   - /public/nekomata-cat.png       … 黒猫キャラクター
    - /public/nekomata-profile.jpg   … プロフィール写真
    （ロゴ画像は内容確認不可のためタイポグラフィロゴで代用しています）
 ------------------------------------------------------------------- */
-const CAT_IMG = "/nekomata-cat.jpg";
+const CAT_IMG = "/nekomata-cat.png";
 const PROFILE_IMG = "/nekomata-profile.jpg";
 
 /* ---------- 共通装飾：薄い背景レイヤー ---------- */
