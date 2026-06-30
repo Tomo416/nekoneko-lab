@@ -389,7 +389,7 @@ export default function NekomataGuide() {
         <ArcaneBackdrop />
         <FloatingMotifs density={6} variant="paw" />
         <div className="relative z-10 max-w-5xl mx-auto">
-          <ChapterHeading glyph="chapter one" title="ネコマタトモについて" sub="自己紹介" />
+          <ChapterHeading glyph="chapter one" title="工房職人" sub="自己紹介" />
 
           <div className="flex flex-col md:flex-row items-center md:items-start gap-10 md:gap-14">
             <div className="flex-shrink-0 relative">
@@ -407,7 +407,7 @@ export default function NekomataGuide() {
 
             <div className="text-center md:text-left">
               <h3 className="font-display text-xl sm:text-2xl text-[#F1ECDF] mb-1">ネコマタ トモ</h3>
-              <p className="font-serif italic text-[#9FE3C2] text-sm mb-6">令和の魔女・アーティスト</p>
+              <p className="font-serif italic text-[#9FE3C2] text-sm mb-6">令和の魔女・錬金術師</p>
 
               <div className="flex flex-wrap justify-center md:justify-start gap-2 mb-6">
                 {["牡羊座 / O型", "MBTI：INTJ-A（建築家）", "数秘：4"].map((tag) => (
@@ -422,9 +422,10 @@ export default function NekomataGuide() {
 
               <div className="space-y-4 text-[#EDE7F6]/85 text-sm sm:text-base leading-loose max-w-xl">
                 <p>元・繊細さん。環境アレルギーや精神疾患により寝たきり・引きこもりを経験。</p>
-                <p>西洋医学だけでは解決できない領域に興味を持ち、オーラやエーテル体のヒーリングやメンタルケアを学び始める。</p>
-                <p>その後、8000年の霊統を受け継ぐ魔法学校にて学びを深め、現代に生きる魔女として活動を開始。</p>
-                <p>魔女になったことで本来の創造性を取り戻し、アート、映像、音楽、ヒーリングなど様々な表現活動を行うようになる。</p>
+                <p>西洋医学だけでは解決できない領域や根本的な問題解決に興味を持ち、オーラやエーテル体のヒーリングやメンタルケアを学び始める。</p>
+                <p>その後、8000年の霊統を受け継ぐ魔法学校にて学びを深め、令和の魔女として活動を開始。</p>
+                <p>魔女になったことで本来の創造性を取り戻し、アート・映像制作・音楽制作・歌唱・ヒーリングや占いなど領域を超えた表現活動を行うようになる。</p>
+               <p>幼い頃から、土台や構造、仕組みが気になる性分。セッションにおいても現代における社会生活で停滞しがちなエネルギーを動かしたり、情熱を再稼働させたり、止まっている流れを本来の流れに戻すことを得意とする。</p>
                 <p className="text-[#9FE3C2]/90">現在は茅ヶ崎を拠点に活動。健康オタク。体に良くて美味しいものが大好き。保護猫3匹と暮らしている。</p>
               </div>
             </div>
