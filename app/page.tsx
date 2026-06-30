@@ -359,7 +359,6 @@ export default function NekomataGuide() {
         <br className="hidden sm:block" />
            お届けしています。
          </p>
-          </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-10">
             <button
